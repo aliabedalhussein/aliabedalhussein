@@ -1,10 +1,10 @@
 # Hi there, I'm Ali 👋
 
-💻 Software Developer
+💻 **Software Developer | Computer Science Graduate**
 
-🚀 Passionate about Software Engineering, Artificial Intelligence, Cybersecurity, and Web Development.
+🚀 Passionate about **Software Engineering, Web Development, Artificial Intelligence, and building real-world solutions.**
 
-I enjoy building secure, scalable, and efficient applications that solve real-world problems while continuously learning new technologies and improving my development skills. My repositories showcase projects ranging from full-stack web applications and REST APIs to AI, cloud, mobile projects. I'm also expanding my knowledge in cybersecurity to better understand secure software development and modern security practices.
+I enjoy building secure, scalable, and efficient applications that solve real-world problems while continuously learning new technologies and improving my development skills.
 
 🤝 I'm always open to collaboration, learning opportunities, and exciting software development projects.
 
